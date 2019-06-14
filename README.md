@@ -1,1 +1,1 @@
-# r-capstone-titanic
+# EDX Capstone Project - Titanic Survival Prediction
