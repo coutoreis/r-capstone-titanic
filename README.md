@@ -1,12 +1,10 @@
-# EDX HarvardX Capstone Project - Titanic Survival Prediction
-
 ---
 title: "EDX Capstone Project - Titanic Survival Prediction"
 author: "Thiago do Couto"
 date: "13/06/2019"
 output: html_document
 ---
-# R Capstone - Standalone Project
+# EDX HarvardX Capstone Project - Titanic Survival Prediction
 ## Titanic Survival Prediction
 This project aims to predict if a certain passenger would survive the Titanic disaster and show the importance of each variable.
 
